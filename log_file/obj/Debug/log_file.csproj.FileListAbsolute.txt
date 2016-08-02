@@ -1,0 +1,9 @@
+E:\my project\c#\log_file\log_file\bin\Debug\log_file.exe.config
+E:\my project\c#\log_file\log_file\bin\Debug\log_file.exe
+E:\my project\c#\log_file\log_file\bin\Debug\log_file.pdb
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.csprojResolveAssemblyReference.cache
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.Form1.resources
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.Properties.Resources.resources
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.csproj.GenerateResource.Cache
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.exe
+E:\my project\c#\log_file\log_file\obj\Debug\log_file.pdb
